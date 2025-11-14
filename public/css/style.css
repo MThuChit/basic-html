@@ -9,7 +9,7 @@ body {
   color: #333;
 }
  
-header {
+header, footer {
   background-color: #572346;
   color: white;
   text-align: center;
@@ -45,14 +45,7 @@ header {
 .achievements ul {
   padding-left: 20px;
 }
- 
-footer {
-  text-align: center;
-  font-size: 0.9em;
-  color: #666;
-  padding: 15px 0 25px;
-}
- 
+
 .biography:hover,
 .achievements:hover {
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.12);
